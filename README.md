@@ -2,7 +2,7 @@
 A text editor that includes formatting for JavaScript syntax. You can install the application for it to be able to run offline.
 
 ## Usage
-Open 'J.A.T.E.' in the browser, or open downloaded application. After any additions, changes will be saved automatically. 
+Open 'T.E.' in the browser, or open downloaded application. After any additions, changes will be saved automatically. 
 
 ## Links
 GitHub Repo:
