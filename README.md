@@ -5,7 +5,8 @@ A text editor that includes formatting for JavaScript syntax. You can install th
 Open 'T.E.' in the browser, or open downloaded application. After any additions, changes will be saved automatically. 
 
 ## Links
-GitHub Repo:
+GitHub Repo: https://github.com/leadencat/Text-Editor 
+
 
 ## License
 
